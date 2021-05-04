@@ -4452,6 +4452,13 @@ input[type=button].btn-block {
   }
 }
 
+.card-border {
+  border-width: 5px;
+  border-color: 	#e63946;
+  border-style: solid;
+  border-radius: 5px;
+}
+
 .card-group > .card {
   margin-bottom: 0.75rem;
 }
