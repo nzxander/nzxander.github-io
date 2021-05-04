@@ -2397,7 +2397,7 @@ textarea.form-control {
 
 .btn {
   display: inline-block;
-  font-weight: 400;
+  font-weight: 660;
   color: #212529;
   text-align: center;
   vertical-align: middle;
@@ -2439,13 +2439,13 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #457b9d;
+  border-color: #457b9d;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #9f4e2f;
-  border-color: #964a2c;
+  background-color: #a8dadc;
+  border-color: #a8dadc;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -4453,10 +4453,10 @@ input[type=button].btn-block {
 }
 
 .card-border {
-  border-width: 5px;
+  border-width: 15px;
   border-color: 	#e63946;
   border-style: solid;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 .card-group > .card {
