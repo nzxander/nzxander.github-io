@@ -4454,7 +4454,7 @@ input[type=button].btn-block {
 
 .card-border {
   border-width: 15px;
-  border-color: 	#e63946;
+  border-color: 	#457b9d;
   border-style: solid;
   border-radius: 8px;
 }
@@ -10076,7 +10076,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #a8dadc;
+  background-color: #457b9d;
   color: #f1faee;
   border-radius: 100%;
   font-size: 1.5rem;
@@ -10086,7 +10086,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #457b9d;
+  background-color:  #a8dadc;
 }
 
 .dev-icons {
