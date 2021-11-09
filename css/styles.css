@@ -4453,8 +4453,8 @@ input[type=button].btn-block {
 }
 
 .card-border {
-  border-width: 15px;
-  border-color: 	#457b9d;
+  border-width: 10px;
+  border-color: 	#C12A2F;
   border-style: solid;
   border-radius: 8px;
 }
@@ -10074,9 +10074,9 @@ p.lead {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #457b9d;
+  height: 4rem;
+  width: 4rem;
+  background-color: #C12A2F;
   color: #f1faee;
   border-radius: 100%;
   font-size: 1.5rem;
